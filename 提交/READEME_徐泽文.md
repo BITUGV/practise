@@ -38,10 +38,9 @@ git commit -m"README.md的提交"
 git push orignal master
  ```
 
-a name="A3"><h2>工作总结</h2></a>
+<a name="A3"><h2>工作总结</h2></a>
 1.阅读了loam论文
 
 2.在Ubuntu下跑通了loam代码
 
 3.掌握了git的基本操作
-
